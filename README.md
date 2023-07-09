@@ -1,3 +1,7 @@
+# Determining the orientation of the Magnetic Fields of Molecular Clouds based on Polarized Dust Emission Observations
+
+## Abstract
+
 This paper will examine polarimetric observations of the Vela C and Orion A molecular clouds, to gain insight into the 3D structure of their magnetic fields.
 As molecular clouds have complex structures, factors such as column density, grain alignment efficiency, temperature, and dispersion in the polarization angle must be considered when analyzing the results.
 An analysis of Vela C is made using the polarization fraction, ($p$), and the dispersion in the polarization angle, ($\mathcal{S}$), to examine the inclination angle of the cloud's magnetic field with respect to the plane-of-sky. 
