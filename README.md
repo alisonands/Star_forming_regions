@@ -5,4 +5,4 @@ The entire paper can be found [here](Andrade_M_field_orientation.pdf)
 
 ## Key findings
 ### Vela C molecular cloud polarization angles:
-[Vela C Polarization angles histogram](vela_C/vela_plots/image_S_p_all_comp.png)
+![Vela C Polarization angles histogram](vela_C/vela_plots/image_S_p_all_comp.png)
