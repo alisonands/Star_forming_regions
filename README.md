@@ -9,4 +9,4 @@ Results of the polarization angles of the Vela C molecular cloud. We tested dire
 ![Vela C Polarization angles histogram](vela_C/vela_plots/image_S_p_all_comp.png)
 
 ### Orion A 
-![Orion 2D histogram](orion/good_plots/image_2Dhist_med_polfrac)
+![Orion 2D histogram](orion/good_plots/image_2Dhist_med_polfrac.png)
