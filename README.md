@@ -9,4 +9,5 @@ Results of the polarization angles of the Vela C molecular cloud. We tested dire
 ![Vela C Polarization angles histogram](vela_C/vela_plots/image_S_p_all_comp.png)
 
 ### Orion A 
+The analysis on Orion A explored the relationship in column density and polarization fraction in the cloud, as shown by the following 2D histograms.
 ![Orion 2D histogram](orion/good_plots/image_2Dhist_med_polfrac.png)
