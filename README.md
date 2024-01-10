@@ -5,7 +5,7 @@ The entire paper can be found [here](Andrade_M_field_orientation.pdf)
 
 ## Key findings
 ### Vela C molecular cloud polarization angles:
-Results of the polarization angles of the Vela C molecular cloud. We tested directly for the polarization angles(shown in yellor), and for the s-corrected angles. The values were histogrammed to determine the median inclination value of each section of the cloud. 
+Results of the polarization angles of the Vela C molecular cloud. We tested directly for the polarization angles(shown in yellow), and for the s-corrected angles. The values were histogrammed to determine the median inclination value of each section of the cloud. 
 ![Vela C Polarization angles histogram](vela_C/vela_plots/image_S_p_all_comp.png)
 
 ### Orion A 
